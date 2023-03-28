@@ -12,10 +12,10 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/screen2.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/screen3.PNG">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo1.gif">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo2.gif">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo3.gif">
- 
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo11.gif">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo22.gif">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo33.gif">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/Demo44.gif">
 <p>
 
 ## 🛠️ Main technologies
