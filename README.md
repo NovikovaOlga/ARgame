@@ -2,6 +2,9 @@
 
 ## 🎮 Augmented Reality Games.
 
+## Description
+ <p> </p>
+
 ## Capabilities
 
 - **Animal feeding (using 3d models of food and animals).**
@@ -18,7 +21,14 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/screen3.PNG">
 <p>
 
+## 3D Model
+
+## Privacy
+
 ## Technologies
  - **SceneKit**
  - **ARKit**
 
+# Installing and launching
+- **Download the project archive**
+- **Project startup file: .xcodeproj**
