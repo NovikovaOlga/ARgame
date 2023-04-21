@@ -70,6 +70,8 @@ There are three modes of operation available in the application:
 ## Technologies
  - **SceneKit**
  - **ARKit**
+ - **OptionSet(for collision)**
+ - - **model (.usdz)**
 
 # Installing and launching
 - **Download the project archive**
