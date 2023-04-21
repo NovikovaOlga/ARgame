@@ -47,8 +47,19 @@ There are three modes of operation available in the application:
 </p>
 
 ## 3D Model
+ <p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed </p> 
+ 
+<p>
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model1.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model2.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model3.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model4.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model5.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/model6.png"> 
+</p>
  
  
+
 ## Particles (for collision)
 <p>
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_1.gif">
