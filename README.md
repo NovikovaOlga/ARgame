@@ -47,6 +47,12 @@ There are three modes of operation available in the application:
 <p>
 
 ## 3D Model
+ 
+ 
+## Particles (for collision)
+ 
+  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_1.gif">
+
 
 ## Privacy
 
