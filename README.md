@@ -74,7 +74,7 @@ The application will ask for access permission:
  - **SceneKit**
  - **ARKit**
  - **OptionSet(for collision)**
- - - **model (.usdz)**
+ - **model (.usdz)**
 
 # Installing and launching
 - **Download the project archive**
