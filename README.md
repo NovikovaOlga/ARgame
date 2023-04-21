@@ -2,7 +2,7 @@
 
 ## 🎮 Augmented Reality Games.
 
-## 🚀 Capabilities
+## Capabilities
 
 - **Animal feeding (using 3d models of food and animals).**
 - **Throwing balls of different colors on cubes of different colors generated in space.**
@@ -18,7 +18,7 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/screen3.PNG">
 <p>
 
-## 🛠️ Main technologies
+## Technologies
  - **SceneKit**
  - **ARKit**
 
