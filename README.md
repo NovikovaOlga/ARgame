@@ -44,15 +44,16 @@ There are three modes of operation available in the application:
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/screen2.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/screen3.PNG">
-<p>
+</p>
 
 ## 3D Model
  
  
 ## Particles (for collision)
-<img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_1.gif">
-<img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_2.gif">
-
+<p>
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_1.gif">
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_2.gif">
+</p>
 ## Privacy
 
 ## Technologies
