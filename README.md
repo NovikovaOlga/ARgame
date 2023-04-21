@@ -79,3 +79,5 @@ The application will ask for access permission:
 # Installing and launching
 - **Download the project archive**
 - **Project startup file: .xcodeproj**
+
+#### Requires running on a real device.
