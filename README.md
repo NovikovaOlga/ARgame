@@ -65,7 +65,9 @@ There are three modes of operation available in the application:
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_1.gif">
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/particle_2.gif">
 </p>
+
 ## Privacy
+
 
 ## Technologies
  - **SceneKit**
