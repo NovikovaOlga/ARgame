@@ -67,7 +67,8 @@ There are three modes of operation available in the application:
 </p>
 
 ## Privacy
-
+The application will ask for access permission:
+- **Camera**
 
 ## Technologies
  - **SceneKit**
